@@ -1,0 +1,13 @@
+{
+  "name": "codeceptjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "codeceptjs": "^3.0.7",
+    "puppeteer": "^9.1.1"
+  },
+  "scripts": {
+    "shell": "codeceptjs shell"
+  }
+}
